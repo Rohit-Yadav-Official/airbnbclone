@@ -62,13 +62,13 @@ This project is an Airbnb clone that allows users to perform CRUD (Create, Read,
 - **Explore Listings:**
 
    -Browse through the available property listings on the homepage.
--**Create a Listing:**
+- **Create a Listing:**
 
     -Click on the "Create Listing" button to add a new property to the platform.
--**Edit a Listing:**
+- **Edit a Listing:**
 
   -Navigate to a specific listing and click on the "Edit" button to modify the details.
--**Delete a Listing:**
+- **Delete a Listing:**
 
     - Select a listing and choose the "Delete" option to remove it from the platform.
 ## Contributing
@@ -81,4 +81,4 @@ Push to your fork and submit a pull request
 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
 
-dgfg
+
