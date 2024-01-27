@@ -79,6 +79,6 @@ This project is an Airbnb clone that allows users to perform CRUD (Create, Read,
 - **Make changes and commit them**
 - **Push to your fork and submit a pull request**
 ## License
--**This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.**
+-**This project is licensed under the [MIT License](#mitlicence). Feel free to use, modify, and distribute it as needed.**
 
 
