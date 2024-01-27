@@ -74,10 +74,10 @@ This project is an Airbnb clone that allows users to perform CRUD (Create, Read,
 ## Contributing
  If you'd like to contribute to the project, please follow the standard GitHub flow:
 
--**Fork the repository**
--**Create a new branch for your feature or bug fix**
--**Make changes and commit them**
--**Push to your fork and submit a pull request**
+- **Fork the repository**
+- **Create a new branch for your feature or bug fix**
+- **Make changes and commit them**
+- **Push to your fork and submit a pull request**
 ## License
 -**This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.**
 
