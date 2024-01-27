@@ -55,3 +55,30 @@ This project is an Airbnb clone that allows users to perform CRUD (Create, Read,
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/airbnb-clone.git
+
+
+
+## Usage
+- **Explore Listings:**
+
+   -Browse through the available property listings on the homepage.
+-**Create a Listing:**
+
+    -Click on the "Create Listing" button to add a new property to the platform.
+-**Edit a Listing:**
+
+  -Navigate to a specific listing and click on the "Edit" button to modify the details.
+-**Delete a Listing:**
+
+    - Select a listing and choose the "Delete" option to remove it from the platform.
+## Contributing
+If you'd like to contribute to the project, please follow the standard GitHub flow:
+
+Fork the repository
+Create a new branch for your feature or bug fix
+Make changes and commit them
+Push to your fork and submit a pull request
+License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
+
+dgfg
